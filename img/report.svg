@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="22" height="22" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_13" data-name="Mask Group 13" clip-path="url(#clip-path)">
+    <path id="speedometer" d="M22,10.995a10.9,10.9,0,0,1-2.221,6.625.859.859,0,0,1-1.371-1.037A9.279,9.279,0,1,0,1.719,10.995a9.191,9.191,0,0,0,1.873,5.588A.859.859,0,0,1,2.221,17.62,10.994,10.994,0,0,1,11,0,10.992,10.992,0,0,1,22,10.995ZM16.445,5.819a.859.859,0,0,1,0,1.215l-2.8,2.8A3.008,3.008,0,1,1,12.429,8.62l2.8-2.8a.859.859,0,0,1,1.215,0Zm-4.158,5.445A1.287,1.287,0,1,0,11,12.552,1.289,1.289,0,0,0,12.287,11.265Zm0,0" transform="translate(0 2.02)" fill="#fff"/>
+  </g>
+</svg>
