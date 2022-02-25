@@ -1,0 +1,1 @@
+<?php /**PATH /opt/lampp/htdocs/shoparty_backend/resources/views/admin/includes/header.blade.php ENDPATH**/ ?>
